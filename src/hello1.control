@@ -1,0 +1,4 @@
+# base36 extension
+comment = 'hello1 datatype'
+default_version = '0.0.1'
+relocatable = true
